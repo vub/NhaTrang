@@ -2,7 +2,7 @@
 
 A plan trip to Nha Trang, Viet Nam
 
-![Nha Trang](https://github.com/vub/NhaTrang/images/nha-trang.jpg)
+![Nha Trang](https://raw.githubusercontent.com/vub/NhaTrang/master/images/nha-trang.jpg)
 
 ## Members 👨‍👩‍ ( Sort A-Z )
 
