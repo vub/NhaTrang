@@ -35,3 +35,5 @@ To: T2 24/12
 - 🏊 Swimming in beach
 - Squid night in boat
 - Climbing
+
+## Photography & filming
