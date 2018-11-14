@@ -12,8 +12,8 @@ A plan trip to Nha Trang, Viet Nam
 
 ## Time 📅
 
-- From: T7 22/12
-- To: T2 24/12
+From: T7 22/12
+To: T2 24/12
 
 ## Transport ✈️
 
