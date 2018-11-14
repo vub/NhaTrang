@@ -2,6 +2,8 @@
 
 A plan trip to Nha Trang, Viet Nam
 
+![Nha Trang](https://github.com/vub/NhaTrang/images/nha-trang.jpg)
+
 ## Members 👨‍👩‍ ( Sort A-Z )
 
 - Huy
