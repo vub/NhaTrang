@@ -2,7 +2,7 @@
 
 A plan trip to Nha Trang, Viet Nam
 
-## Member ( Sort A-Z )
+## Members 👨‍👩‍ ( Sort A-Z )
 
 - Huy
 - My
@@ -10,20 +10,20 @@ A plan trip to Nha Trang, Viet Nam
 - Vien
 - Vu
 
-## Time
+## Time 📅
 
 From:
 To:
 
-## Transport
+## Transport ✈️
 
-## Stay
+## Stay 🏢
 
-## Eat
+## Eat 🐟
 
-## Activities
+## Activities 🏄‍
 
 - Massages
-- Swimming in beach
+- 🏊 Swimming in beach
 - Squid night in boat
 - Climbing
